@@ -1,0 +1,37 @@
+<?xml-stylesheet type="text/xsl" href="https://ReggieRezzo.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://ReggieRezzo.github.io/</loc>
+    <lastmod>2021-11-11T22:18:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ReggieRezzo.github.io/post/</loc>
+    <lastmod>2021-11-11T22:18:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ReggieRezzo.github.io/post/post_name/</loc>
+    <lastmod>2021-11-11T22:18:50+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ReggieRezzo.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://ReggieRezzo.github.io/tags/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
